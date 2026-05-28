@@ -1,5 +1,5 @@
 Teamnotiz
 
-Status: erledigt
+Status: in Bearbeitung
 
 Aufgabe: Dokumentation prüfen
